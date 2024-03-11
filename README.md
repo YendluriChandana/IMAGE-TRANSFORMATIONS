@@ -135,7 +135,8 @@ plt.imshow(cropped_img)
 ```
 ## Output:
 ### i)Image Translation
-<br><img src=image.png width=300 height=300>
+![image](https://github.com/22009011/IMAGE-TRANSFORMATIONS/assets/118343461/873e7481-c7bf-47b9-bf15-da7371731634)
+
 
 ### ii) Image Scaling
 <br><img src=image-1.png width=300 height=300>
