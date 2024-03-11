@@ -27,15 +27,15 @@ End the program.
 
 ## Program:
 ```python
-# Developed By: Sabari Akash A
-# Register Number: 212222230124
+# Developed By: Thanjiyappan K
+# Register Number: 212222240108
 # i)Image Translation
 ```
 ```py
 import numpy as np
 import cv2
 import matplotlib.pyplot as plt
-input_image=cv2.imread("got.jpg") 
+input_image=cv2.imread("book cover.jpeg") 
 input_image=cv2.cvtColor(input_image,cv2.COLOR_BGR2RGB) 
 plt.axis("off") 
 plt.imshow(input_image)
@@ -57,7 +57,7 @@ plt.show()
 import numpy as np
 import cv2
 import matplotlib.pyplot as plt
-input_image=cv2.imread("got.jpg") 
+input_image=cv2.imread("book cover.jpeg") 
 input_image=cv2.cvtColor(input_image, cv2.COLOR_BGR2RGB)
 angle=np.radians(45)
 M=np.float32([[np.cos(angle),-(np.sin(angle)),0],
@@ -116,7 +116,7 @@ plt.show()
 import numpy as np
 import cv2
 import matplotlib.pyplot as plt
-input_image=cv2.imread("got.jpg") 
+input_image=cv2.imread("book cover.jpeg") 
 input_image=cv2.cvtColor(input_image, cv2.COLOR_BGR2RGB)
 angle=np.radians(45)
 M=np.float32([[np.cos(angle),-(np.sin(angle)),0],
@@ -139,19 +139,27 @@ plt.imshow(cropped_img)
 
 
 ### ii) Image Scaling
-<br><img src=image-1.png width=300 height=300>
+![Screenshot from 2024-03-11 20-30-22](https://github.com/22009011/IMAGE-TRANSFORMATIONS/assets/118343461/87f8c5d7-ef62-4449-8a41-b1cb965e708d)
+
+![Screenshot from 2024-03-11 20-31-50](https://github.com/22009011/IMAGE-TRANSFORMATIONS/assets/118343461/21eeb3da-ed19-49bf-9062-327579666fa6)
+
 
 ### iii)Image shearing
-<br><img src=image.png width=300 height=300>
+![image](https://github.com/22009011/IMAGE-TRANSFORMATIONS/assets/118343461/873e7481-c7bf-47b9-bf15-da7371731634)
 
 ### iv)Image Reflection
-<br><img src=image-2.png width=300 height=400>
+![image](https://github.com/22009011/IMAGE-TRANSFORMATIONS/assets/118343461/b8dbe4a6-7482-425a-876a-861bba074e88)
+
+
+![Screenshot from 2024-03-11 20-34-14](https://github.com/22009011/IMAGE-TRANSFORMATIONS/assets/118343461/8c80e087-45e9-43e6-9691-74c2795d4c35)
 
 ### v)Image Rotation
-<br><img src=image-3.png width=300 height=300>
+![Screenshot from 2024-03-11 20-33-25](https://github.com/22009011/IMAGE-TRANSFORMATIONS/assets/118343461/f55fca77-562f-4f57-b026-72b608146626)
+
 
 ### vi)Image Cropping
-<br><img src=image-4.png width=300 height=300>
+![Screenshot from 2024-03-11 20-36-30](https://github.com/22009011/IMAGE-TRANSFORMATIONS/assets/118343461/9aea84d3-f04b-4cf2-94fe-9adf42d4f3e1)
+
 
 ## Result: 
 
