@@ -148,7 +148,8 @@ plt.imshow(cropped_img)
 ![image](https://github.com/22009011/IMAGE-TRANSFORMATIONS/assets/118343461/873e7481-c7bf-47b9-bf15-da7371731634)
 
 ### iv)Image Reflection
-![image](https://github.com/22009011/IMAGE-TRANSFORMATIONS/assets/118343461/b8dbe4a6-7482-425a-876a-861bba074e88)
+![image](https://github.com/22009011/IMAGE-TRANSFORMATIONS/assets/118343461/63593289-ddea-40af-a63a-58327f3985b0)
+
 
 
 ![Screenshot from 2024-03-11 20-34-14](https://github.com/22009011/IMAGE-TRANSFORMATIONS/assets/118343461/8c80e087-45e9-43e6-9691-74c2795d4c35)
