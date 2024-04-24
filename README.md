@@ -1,4 +1,4 @@
-# IMAGE-TRANSFORMATIONS
+`# IMAGE-TRANSFORMATIONS
 
 
 ## Aim
@@ -28,8 +28,8 @@ End the program.
 
 ## Program:
 ```python
-# Developed By: Thanjiyappan K
-# Register Number: 212222240108
+# Developed By: Yendluri Chandana
+# Register Number: 212223100063
 # i)Image Translation
 ```
 ```py
@@ -136,32 +136,32 @@ plt.imshow(cropped_img)
 ```
 ## Output:
 ### i)Image Translation
-![image](https://github.com/22009011/IMAGE-TRANSFORMATIONS/assets/118343461/873e7481-c7bf-47b9-bf15-da7371731634)
+![image](https://github.com/YendluriChandana/IMAGE-TRANSFORMATIONS/assets/139842204/4a7613bd-226c-42d4-8422-310be87c6a89)
 
 
 ### ii) Image Scaling
-![Screenshot from 2024-03-11 20-30-22](https://github.com/22009011/IMAGE-TRANSFORMATIONS/assets/118343461/87f8c5d7-ef62-4449-8a41-b1cb965e708d)
+![image](https://github.com/YendluriChandana/IMAGE-TRANSFORMATIONS/assets/139842204/b86e03bf-0c67-4cfe-9f10-8e2ea093559d)
 
-![Screenshot from 2024-03-11 20-31-50](https://github.com/22009011/IMAGE-TRANSFORMATIONS/assets/118343461/21eeb3da-ed19-49bf-9062-327579666fa6)
+![image](https://github.com/YendluriChandana/IMAGE-TRANSFORMATIONS/assets/139842204/8e15361d-3383-4474-b4c3-709a5ce576fb)
 
 
 ### iii)Image shearing
-![image](https://github.com/22009011/IMAGE-TRANSFORMATIONS/assets/118343461/873e7481-c7bf-47b9-bf15-da7371731634)
+![image](https://github.com/YendluriChandana/IMAGE-TRANSFORMATIONS/assets/139842204/0b7b5eab-4e4d-45c6-8273-14b244fa184d)
 
 ### iv)Image Reflection
-![image](https://github.com/22009011/IMAGE-TRANSFORMATIONS/assets/118343461/63593289-ddea-40af-a63a-58327f3985b0)
+![image](https://github.com/YendluriChandana/IMAGE-TRANSFORMATIONS/assets/139842204/775758e9-684c-4a30-b67e-c5a9ebc04196)
 
 
 
-![Screenshot from 2024-03-11 20-34-14](https://github.com/22009011/IMAGE-TRANSFORMATIONS/assets/118343461/8c80e087-45e9-43e6-9691-74c2795d4c35)
+![image](https://github.com/YendluriChandana/IMAGE-TRANSFORMATIONS/assets/139842204/1f0b1b74-f74f-4028-9e0b-33897a8f46fe)
 
 ### v)Image Rotation
-![new rotate](https://github.com/22009011/IMAGE-TRANSFORMATIONS/assets/118343461/2b363830-42eb-4afe-84c3-4bfe163e97fe)
+![image](https://github.com/YendluriChandana/IMAGE-TRANSFORMATIONS/assets/139842204/cd1654aa-3a47-499e-a134-81a5653d1466)
 
 
 
 ### vi)Image Cropping
-![Screenshot from 2024-03-11 20-36-30](https://github.com/22009011/IMAGE-TRANSFORMATIONS/assets/118343461/9aea84d3-f04b-4cf2-94fe-9adf42d4f3e1)
+![image](https://github.com/YendluriChandana/IMAGE-TRANSFORMATIONS/assets/139842204/f105a3eb-c754-4067-936e-6e969e0a16ff)
 
 
 ## Result: 
